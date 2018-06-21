@@ -1,0 +1,93 @@
+﻿@using Microsoft.AspNet.Identity
+@using Job_offers.Models
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post,new { id = "logoff" }))
+    {
+        var db = new ApplicationDbContext();
+        var UserID = User.Identity.GetUserId();
+        var CurrentUser = db.Users.Where(a => a.Id == UserID).SingleOrDefault();
+
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <span class="glyphicon glyphicon-user"></span>
+                    <strong>Welcome @CurrentUser.UserName</strong>
+                    <span class="glyphicon glyphicon-chevron-down"></span>
+                </a>
+
+                <ul class="dropdown-menu">
+                    <li>
+                        <div class="navbar-user">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <h4 class="text-center">
+                                        <span class="glyphicon glyphicon-user img-size"></span>
+                                    </h4>
+                                </div>
+                                <div class="col-lg-8">
+                                    <h4 class="text-left">
+                                        <span>@CurrentUser.UserName</span>
+
+                                    </h4>
+                                    @if (CurrentUser.UserType == "Publisher")
+                                    {
+                                        <a href="~/Jobs/Create" class="btn btn-success btn-block">Publish New Job</a>
+                                        <a href="~/Home/GetJobsByPublisher" class="btn btn-success btn-block">Your Jobs</a>
+
+                                    }else if(CurrentUser.UserType == "Seeker")
+                                    {
+                                        <a href="~/Home/GetJobsByUser" class="btn btn-success btn-block">Your Jobs</a>
+                                    }
+                                    else if (CurrentUser.UserName == "Admin")
+                                    {
+                                        <a href="~/Roles" class="btn btn-success btn-block">Roles</a>
+                                        <a href="~/Roles/Create" class="btn btn-success btn-block">Add New Rule</a>
+                                        <a href="~/Categories" class="btn btn-success btn-block">Categories</a>
+                                    }
+                                    <a href="~/Account/EditProfile" class="btn btn-primary btn-block">Edit Account</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <a href="javascript:document.getElementById('logoff').submit();" class="btn btn-danger btn-block">Logout</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </li>
+
+
+            @*
+            <li>
+                @Html.ActionLink("Welcome " + User.Identity.GetUserName(), "Index", "Manage")
+            </li>
+            *@
+            
+        </ul>
+    }
+}
+else
+{<ul class="nav navbar-nav navbar-right">
+    <li>
+    <a href="~/Account/Login">
+        <i class="glyphicon glyphicon-user"></i> 
+        Login
+    </a>
+    </li>
+    <li>
+    <a href="~/Account/Register">
+        <i class="glyphicon glyphicon-lock"></i> 
+        Sign Up
+    </a>
+    </li>
+</ul>
+}

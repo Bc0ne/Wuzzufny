@@ -1,0 +1,112 @@
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Job offers.dll.config
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Job offers.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Job offers.pdb
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\EntityFramework.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\EntityFramework.SqlServer.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Helpers.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Mvc.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Razor.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Webpages.Deployment.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Webpages.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Webpages.Razor.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\EntityFramework.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\EntityFramework.SqlServer.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Razor.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Webpages.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Webpages.Deployment.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Webpages.Razor.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Helpers.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Mvc.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\obj\Debug\Job offers.csproj.CoreCompileInputs.cache
+c:\users\mr-robot\source\repos\Job offers\Job offers\obj\Debug\Job offers.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\obj\Debug\Job offers.pdb
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Antlr3.Runtime.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Newtonsoft.Json.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Owin.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Optimization.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\WebGrease.dll
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Antlr3.Runtime.pdb
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\Newtonsoft.Json.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\bin\System.Web.Optimization.xml
+c:\users\mr-robot\source\repos\Job offers\Job offers\obj\Debug\Job offers.csprojResolveAssemblyReference.cache
+C:\Users\MR-Robot\source\repos\Job offers\Job offers\obj\Debug\Job_offers.Migrations.Initial.resources
+C:\Users\MR-Robot\source\repos\Job offers\Job offers\obj\Debug\Job offers.csproj.GenerateResource.Cache
+C:\Users\MR-Robot\source\repos\Job offers\Job offers\obj\Debug\Job_offers.Migrations.ApplyJobs.resources
+C:\Users\MR-Robot\source\repos\Job offers\Job offers\obj\Debug\Job_offers.Migrations.EditJobModel.resources
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Job offers.dll.config
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Job offers.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Job offers.pdb
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Antlr3.Runtime.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\EntityFramework.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\EntityFramework.SqlServer.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Core.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Cookies.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Google.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.OAuth.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Web.Infrastructure.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Newtonsoft.Json.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Owin.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Helpers.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Mvc.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Optimization.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Razor.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Webpages.Deployment.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Webpages.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Webpages.Razor.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\WebGrease.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Antlr3.Runtime.pdb
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\EntityFramework.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\EntityFramework.SqlServer.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Core.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Cookies.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.Google.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Microsoft.Owin.Security.OAuth.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\Newtonsoft.Json.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Optimization.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Razor.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Webpages.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Webpages.Deployment.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Webpages.Razor.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Helpers.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\bin\System.Web.Mvc.xml
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job offers.csprojResolveAssemblyReference.cache
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job_offers.Migrations.Initial.resources
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job_offers.Migrations.ApplyJobs.resources
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job_offers.Migrations.EditJobModel.resources
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job offers.csproj.GenerateResource.Cache
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job offers.csproj.CoreCompileInputs.cache
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job offers.dll
+F:\00Training_Development\Source\repos\Job offers\Job offers\obj\Debug\Job offers.pdb
